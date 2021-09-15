@@ -1,10 +1,9 @@
-
-function main () {
+function main() {
     //Only change code below this line
-
-    //Only change code below this line
+    console.log('Hello world');
+    //Only change code above this line
 }
 
-console.log('Hello World!');
+main();
 
-module.exports = main;
+module.exports=main;
